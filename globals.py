@@ -1,0 +1,1 @@
+SPECLENGTH: int = 1024

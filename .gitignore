@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+
+/dataset
+/4th dataset GAN model
+/corns
+/EPR Generator
+/EPR Generator2
+/EPR Generator10000
+/GAN model
+/img2
+/MLPClassifierAE_square_report
+/MLPClassifierplus_report
+/MLPClassifierrandom_AE_square_report
+/model
+/PE
+/PET
+/PMMA
